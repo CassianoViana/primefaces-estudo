@@ -12,6 +12,6 @@ public class HelloWorld {
     private String lastName = "Doe";
 
     public String showGreeting() {
-        return "Hello " + firstName + " " + lastName + "!!!";
+        return "Hello " + firstName + " " + lastName + "!!";
     }
 }
