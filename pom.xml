@@ -71,7 +71,7 @@
                 <version>${tomcat7-maven-plugin.version}</version>
                 <configuration>
                     <port>9090</port>
-                    <path>/codenotfound</path>
+                    <path>/</path>
                 </configuration>
             </plugin>
         </plugins>
